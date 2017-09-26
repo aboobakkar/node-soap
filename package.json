@@ -1,0 +1,42 @@
+{
+  "name": "webdura_soap_marketing",
+  "version": "1.0.2",
+  "description": "soap package for edited by  webdura technologies",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboobakkar/node-soap.git"
+  },
+  "keywords": [
+    "meteor",
+    "soap",
+    "nodejs"
+  ],
+  "author": "aboo pallikara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboobakkar/node-soap/issues"
+  },
+  "homepage": "https://github.com/aboobakkar/node-soap#readme",
+   "devDependencies": {
+    "body-parser": "^1.15.2",
+    "colors": "^1.1.2",
+    "coveralls": "^2.11.6",
+    "diff": "^2.2.1",
+    "doctoc": "^1.0.0",
+    "duplexer": "~0.1.1",
+    "express": "^4.14.0",
+    "glob": "~3.2.8",
+    "istanbul": "^0.4.1",
+    "jshint": "2.3.0",
+    "mocha": "~1.17.0",
+    "readable-stream": "~2.0.2",
+    "semver": "~5.0.3",
+    "should": "~3.3.0",
+    "sinon": "^1.17.5",
+    "timekeeper": "~0.0.4"
+  }
+}
